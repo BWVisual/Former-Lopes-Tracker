@@ -1,5 +1,5 @@
 /* Lopes Tracker offline shell. Notifications are delivered separately by Telegram. */
-const SHELL_CACHE = 'lopes-tracker-shell-v2';
+const SHELL_CACHE = 'lopes-tracker-shell-logo-v1';
 const DATA_CACHE = 'lopes-tracker-data-v1';
 const ASSETS = [
   './', './index.html', './assets/app.js', './assets/styles.css',
