@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-11-03T20:13:27.294842+00:00",
+  "updated_at": "2026-11-03T20:41:28.819025+00:00",
   "tracked": [
+    {
+      "name": "Braylon Johnson",
+      "league": "d1",
+      "team": "Arkansas-Pine Bluff",
+      "gcu_years": ""
+    },
     {
       "name": "Dusty Stromer",
       "league": "d1",
       "team": "San Diego",
+      "gcu_years": "2025–26"
+    },
+    {
+      "name": "Evan Boisdur",
+      "league": "d1",
+      "team": "Abilene Christian",
       "gcu_years": "2025–26"
     },
     {
@@ -20,13 +32,205 @@
       "gcu_years": "2025–26"
     },
     {
-      "name": "Evan Boisdur",
+      "name": "Cole Pepe",
+      "league": "d2",
+      "team": "Concordia Irvine",
+      "gcu_years": ""
+    },
+    {
+      "name": "Styles Phipps",
       "league": "d1",
-      "team": "Abilene Christian",
-      "gcu_years": "2025–26"
+      "team": "Nevada",
+      "gcu_years": ""
+    },
+    {
+      "name": "Sammie Yeanay",
+      "league": "d1",
+      "team": "California",
+      "gcu_years": ""
+    },
+    {
+      "name": "Duke Brennan",
+      "league": "d1",
+      "team": "Oklahoma",
+      "gcu_years": ""
+    },
+    {
+      "name": "Austin Maurer",
+      "league": "d1",
+      "team": "Stanford",
+      "gcu_years": ""
+    },
+    {
+      "name": "Marquese Josephs",
+      "league": "d2",
+      "team": "Tiffin",
+      "gcu_years": ""
+    },
+    {
+      "name": "Noah Amenhauser",
+      "league": "d1",
+      "team": "Long Beach State",
+      "gcu_years": ""
+    },
+    {
+      "name": "Isaiah Shaw",
+      "league": "d1",
+      "team": "Connecticut",
+      "gcu_years": ""
+    },
+    {
+      "name": "Gabe McGlothan",
+      "league": "gleague",
+      "team": "Maine Celtics",
+      "gcu_years": ""
     }
   ],
   "games": [
+    {
+      "id": "d1:401920716:austin-maurer",
+      "event_id": "401920716",
+      "date": "2026-11-03T03:00Z",
+      "name": "Austin Maurer",
+      "league": "d1",
+      "team": "Stanford",
+      "gcu_years": "",
+      "opponent": "Eastern Washington",
+      "home": true,
+      "score_for": "74",
+      "score_against": "65",
+      "outcome": "W",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "6"
+        },
+        {
+          "label": "PTS",
+          "value": "0"
+        },
+        {
+          "label": "FG",
+          "value": "0-0"
+        },
+        {
+          "label": "3PT",
+          "value": "0-0"
+        },
+        {
+          "label": "FT",
+          "value": "0-0"
+        },
+        {
+          "label": "REB",
+          "value": "0"
+        },
+        {
+          "label": "AST",
+          "value": "0"
+        },
+        {
+          "label": "TO",
+          "value": "0"
+        },
+        {
+          "label": "STL",
+          "value": "0"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "0"
+        },
+        {
+          "label": "DREB",
+          "value": "0"
+        },
+        {
+          "label": "PF",
+          "value": "1"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401920716"
+    },
+    {
+      "id": "d1:401911452:styles-phipps",
+      "event_id": "401911452",
+      "date": "2026-11-03T03:00Z",
+      "name": "Styles Phipps",
+      "league": "d1",
+      "team": "Nevada",
+      "gcu_years": "",
+      "opponent": "Robert Morris",
+      "home": true,
+      "score_for": "86",
+      "score_against": "49",
+      "outcome": "W",
+      "pts": "13",
+      "reb": "8",
+      "ast": "5",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "24"
+        },
+        {
+          "label": "PTS",
+          "value": "13"
+        },
+        {
+          "label": "FG",
+          "value": "6-9"
+        },
+        {
+          "label": "3PT",
+          "value": "1-2"
+        },
+        {
+          "label": "FT",
+          "value": "0-0"
+        },
+        {
+          "label": "REB",
+          "value": "8"
+        },
+        {
+          "label": "AST",
+          "value": "5"
+        },
+        {
+          "label": "TO",
+          "value": "0"
+        },
+        {
+          "label": "STL",
+          "value": "2"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "4"
+        },
+        {
+          "label": "DREB",
+          "value": "4"
+        },
+        {
+          "label": "PF",
+          "value": "0"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401911452"
+    },
     {
       "id": "d1:401925947:dennis-evans",
       "event_id": "401925947",
@@ -242,6 +446,222 @@
         }
       ],
       "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401909759"
+    },
+    {
+      "id": "d1:401911390:isaiah-shaw",
+      "event_id": "401911390",
+      "date": "2026-11-03T02:00Z",
+      "name": "Isaiah Shaw",
+      "league": "d1",
+      "team": "Connecticut",
+      "gcu_years": "",
+      "opponent": "Gardner-Webb",
+      "home": true,
+      "score_for": "86",
+      "score_against": "46",
+      "outcome": "W",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "1"
+        },
+        {
+          "label": "PTS",
+          "value": "0"
+        },
+        {
+          "label": "FG",
+          "value": "0-0"
+        },
+        {
+          "label": "3PT",
+          "value": "0-0"
+        },
+        {
+          "label": "FT",
+          "value": "0-0"
+        },
+        {
+          "label": "REB",
+          "value": "0"
+        },
+        {
+          "label": "AST",
+          "value": "0"
+        },
+        {
+          "label": "TO",
+          "value": "0"
+        },
+        {
+          "label": "STL",
+          "value": "0"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "0"
+        },
+        {
+          "label": "DREB",
+          "value": "0"
+        },
+        {
+          "label": "PF",
+          "value": "0"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401911390"
+    },
+    {
+      "id": "d1:401918051:sammie-yeanay",
+      "event_id": "401918051",
+      "date": "2026-11-03T01:00Z",
+      "name": "Sammie Yeanay",
+      "league": "d1",
+      "team": "California",
+      "gcu_years": "",
+      "opponent": "Adams State",
+      "home": true,
+      "score_for": "115",
+      "score_against": "86",
+      "outcome": "W",
+      "pts": "21",
+      "reb": "6",
+      "ast": "2",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "23"
+        },
+        {
+          "label": "PTS",
+          "value": "21"
+        },
+        {
+          "label": "FG",
+          "value": "6-8"
+        },
+        {
+          "label": "3PT",
+          "value": "1-2"
+        },
+        {
+          "label": "FT",
+          "value": "8-12"
+        },
+        {
+          "label": "REB",
+          "value": "6"
+        },
+        {
+          "label": "AST",
+          "value": "2"
+        },
+        {
+          "label": "TO",
+          "value": "2"
+        },
+        {
+          "label": "STL",
+          "value": "5"
+        },
+        {
+          "label": "BLK",
+          "value": "1"
+        },
+        {
+          "label": "OREB",
+          "value": "2"
+        },
+        {
+          "label": "DREB",
+          "value": "4"
+        },
+        {
+          "label": "PF",
+          "value": "2"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401918051"
+    },
+    {
+      "id": "d1:401906801:duke-brennan",
+      "event_id": "401906801",
+      "date": "2026-11-03T01:00Z",
+      "name": "Duke Brennan",
+      "league": "d1",
+      "team": "Oklahoma",
+      "gcu_years": "",
+      "opponent": "East Texas A&M",
+      "home": true,
+      "score_for": "64",
+      "score_against": "68",
+      "outcome": "L",
+      "pts": "9",
+      "reb": "4",
+      "ast": "1",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "17"
+        },
+        {
+          "label": "PTS",
+          "value": "9"
+        },
+        {
+          "label": "FG",
+          "value": "4-6"
+        },
+        {
+          "label": "3PT",
+          "value": "0-0"
+        },
+        {
+          "label": "FT",
+          "value": "1-2"
+        },
+        {
+          "label": "REB",
+          "value": "4"
+        },
+        {
+          "label": "AST",
+          "value": "1"
+        },
+        {
+          "label": "TO",
+          "value": "3"
+        },
+        {
+          "label": "STL",
+          "value": "0"
+        },
+        {
+          "label": "BLK",
+          "value": "1"
+        },
+        {
+          "label": "OREB",
+          "value": "1"
+        },
+        {
+          "label": "DREB",
+          "value": "3"
+        },
+        {
+          "label": "PF",
+          "value": "2"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401906801"
     }
   ],
   "coverage": {
