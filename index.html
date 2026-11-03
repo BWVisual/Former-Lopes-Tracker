@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#120b21" />
+  <meta name="description" content="Follow former Grand Canyon men's basketball players: college transfers and NBA / G League alumni, with game results and full available stat lines." />
+  <title>Lopes Tracker | Beyond GCU</title>
+  <link rel="stylesheet" href="./assets/styles.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="container header-inner">
+      <a class="brand" href="#top" aria-label="Lopes Tracker home">
+        <span class="brand-mark" aria-hidden="true"><span class="brand-mark-inner">L</span></span>
+        <span class="brand-text"><strong>LOPES<span>TRACKER</span></strong><small>THE GCU ALUMNI WATCH</small></span>
+      </a>
+      <nav class="header-nav" aria-label="Site navigation">
+        <a href="#game-feed">Game feed</a>
+        <a href="#watchlist">Watchlist</a>
+        <span class="status-chip"><span class="pulse-dot"></span> AUTO-UPDATED</span>
+      </nav>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="container hero-layout">
+        <div class="hero-main">
+          <div class="eyebrow"><span class="overline"></span> A NEW CHAPTER. SAME ROOTS.</div>
+          <h1>ONCE A LOPE.<br/><em>ALWAYS</em> ON THE<br/>RADAR<span class="period">.</span></h1>
+          <p>Every new school. Every final buzzer. Every box score. One home for following former GCU men's basketball players in college and the pros.</p>
+          <div class="hero-actions">
+            <a class="primary-button" href="#game-feed">Explore game feed <span aria-hidden="true">↗</span></a>
+            <div class="hero-note"><span class="hero-note-line"></span> NCAA I / II / III <span class="bullet">•</span> NAIA <span class="bullet">•</span> G LEAGUE <span class="bullet">•</span> NBA</div>
+          </div>
+        </div>
+        <div class="hero-display" aria-hidden="true">
+          <div class="orbit orbit-one"></div><div class="orbit orbit-two"></div>
+          <div class="court-line court-one"></div><div class="court-line court-two"></div>
+          <div class="display-insignia">L</div>
+          <span class="display-top">EST. 2026</span>
+          <span class="display-bottom">THE JOURNEY CONTINUES →</span>
+          <div class="float-tile float-top"><span>01 /</span><strong>COLLEGE</strong><small>TRANSFER WATCH</small></div>
+          <div class="float-tile float-bottom"><span>02 /</span><strong>PROS</strong><small>ALUMNI WATCH</small></div>
+        </div>
+      </div>
+    </section>
+
+    <div class="ticker" aria-label="Tracker coverage"><div class="container ticker-inner">
+      <span>FORMER LOPES</span><span class="ticker-star">✦</span><span>NEW COLORS</span><span class="ticker-star">✦</span><span>SAME LEGACY</span><span class="ticker-star">✦</span><span>EVERY STAT</span><span class="ticker-star">✦</span><span>EVERY NIGHT</span>
+    </div></div>
+
+    <div class="container content-area">
+      <section class="numbers" aria-label="Tracker at a glance">
+        <div class="number-card"><span class="number-label">PLAYERS WATCHED</span><strong id="count-all">—</strong><span class="number-foot">Across tracked leagues</span></div>
+        <div class="number-card"><span class="number-label">COLLEGE TRANSFERS</span><strong id="count-college">—</strong><span class="number-foot">NCAA D-I / D-II / D-III / NAIA</span></div>
+        <div class="number-card"><span class="number-label">PRO ALUMNI</span><strong id="count-nba">—</strong><span class="number-foot">On your watchlist</span></div>
+        <div class="number-card"><span class="number-label">GAMES LOGGED</span><strong id="count-games">—</strong><span class="number-foot">Completed player appearances</span></div>
+      </section>
+
+      <section class="feed-section" id="game-feed" aria-labelledby="feed-title">
+        <div class="section-heading">
+          <div><div class="section-kicker">01 <span></span> THE LATEST</div><h2 id="feed-title">GAME <span>FEED</span></h2><p>Final results and complete available box-score statistics.</p></div>
+          <div class="update-info"><span class="live-glyph"></span><span><strong id="updated-label">WAITING FOR SYNC</strong><small>Times shown in Arizona time</small></span></div>
+        </div>
+        <div class="feed-toolbar">
+          <div class="tabs" role="group" aria-label="Filter by league">
+            <button type="button" class="tab active" data-league="college" aria-pressed="true">COLLEGE <span id="tab-college-count">0</span></button>
+            <button type="button" class="tab" data-league="pros" aria-pressed="false">PROS <span id="tab-nba-count">0</span></button>
+            <button type="button" class="tab" data-league="all" aria-pressed="false">ALL GAMES</button>
+          </div>
+          <div class="feed-tools">
+            <label class="period-wrap league-select"><span class="sr-only">Competition filter</span><select id="league-filter">
+              <option value="all">All six leagues</option>
+              <option value="d1">NCAA Division I</option>
+              <option value="d2">NCAA Division II</option>
+              <option value="d3">NCAA Division III</option>
+              <option value="naia">NAIA</option>
+              <option value="gleague">NBA G League</option>
+              <option value="nba">NBA</option>
+            </select></label>
+            <label class="search-wrap"><span aria-hidden="true">⌕</span><span class="sr-only">Search player or opponent</span><input type="search" id="search" placeholder="Search players or opponents" autocomplete="off" /></label>
+            <label class="period-wrap"><span class="sr-only">Time range</span><select id="date-range"><option value="7">Last 7 days</option><option value="30">Last 30 days</option><option value="all">All time</option></select></label>
+          </div>
+        </div>
+        <div id="coverage-status" class="coverage-status" role="status"></div>
+        <div id="feed-results" class="results" aria-live="polite"><div class="loading-panel">Loading tracked games…</div></div>
+        <div class="feed-footnote">One phone alert per player per completed game when Telegram is configured. DNPs are excluded. Stats are displayed only when the provider reports them. Lower-division and NAIA coverage can be incomplete; check source status in the setup guide.</div>
+      </section>
+
+      <section class="watch-section" id="watchlist" aria-labelledby="watch-title">
+        <div class="section-heading watch-heading">
+          <div><div class="section-kicker">02 <span></span> WHO WE'RE FOLLOWING</div><h2 id="watch-title">THE <span>WATCHLIST</span></h2><p>Former Lopes, their current teams, and their next chapter.</p></div>
+          <div class="muted-label">EDIT VIA <code>players.json</code></div>
+        </div>
+        <div id="watchlist-grid" class="watchlist-grid"><div class="loading-panel">Loading watchlist…</div></div>
+        <div class="watchlist-note">Your watchlist is curated, not automatically inferred from the portal. Add players in <code>players.json</code>. NCAA Division II and III use the NCAA.com connector; the NBA G League uses ESPN; NAIA requires a verified keyed data source for automatic alerts. International leagues are excluded.</div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="footer"><div class="container footer-inner"><div class="footer-brand">LOPES<span>TRACKER</span><small>FOLLOW THE JOURNEY.</small></div><p>Unofficial alumni tracking project. Not affiliated with Grand Canyon University or ESPN. Data sources: ESPN, NCAA.com, and optional NAIA provider. Source availability varies.</p><a href="#top">BACK TO TOP ↑</a></div></footer>
+  <script src="./assets/app.js" defer></script>
+</body>
+</html>
