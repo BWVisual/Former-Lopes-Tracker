@@ -1,0 +1,273 @@
+{
+  "updated_at": "2026-11-03T19:18:48.302025+00:00",
+  "tracked": [
+    {
+      "name": "Dusty Stromer",
+      "league": "d1",
+      "team": "San Diego",
+      "gcu_years": "2025–26"
+    },
+    {
+      "name": "Dennis Evans",
+      "league": "d1",
+      "team": "Oregon State",
+      "gcu_years": "2024–26"
+    },
+    {
+      "name": "Kaleb Smith",
+      "league": "d1",
+      "team": "Long Beach State",
+      "gcu_years": "2025–26"
+    },
+    {
+      "name": "Evan Boisdur",
+      "league": "d1",
+      "team": "Abilene Christian",
+      "gcu_years": "2025–26"
+    }
+  ],
+  "games": [
+    {
+      "id": "d1:401925947:dennis-evans",
+      "event_id": "401925947",
+      "date": "2026-11-03T02:30Z",
+      "name": "Dennis Evans",
+      "league": "d1",
+      "team": "Oregon State",
+      "gcu_years": "2024–26",
+      "opponent": "Weber State",
+      "home": true,
+      "score_for": "102",
+      "score_against": "61",
+      "outcome": "W",
+      "pts": "0",
+      "reb": "1",
+      "ast": "0",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "5"
+        },
+        {
+          "label": "PTS",
+          "value": "0"
+        },
+        {
+          "label": "FG",
+          "value": "0-1"
+        },
+        {
+          "label": "3PT",
+          "value": "0-0"
+        },
+        {
+          "label": "FT",
+          "value": "0-0"
+        },
+        {
+          "label": "REB",
+          "value": "1"
+        },
+        {
+          "label": "AST",
+          "value": "0"
+        },
+        {
+          "label": "TO",
+          "value": "0"
+        },
+        {
+          "label": "STL",
+          "value": "0"
+        },
+        {
+          "label": "BLK",
+          "value": "1"
+        },
+        {
+          "label": "OREB",
+          "value": "1"
+        },
+        {
+          "label": "DREB",
+          "value": "0"
+        },
+        {
+          "label": "PF",
+          "value": "1"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401925947"
+    },
+    {
+      "id": "d1:401917508:dusty-stromer",
+      "event_id": "401917508",
+      "date": "2026-11-03T02:30Z",
+      "name": "Dusty Stromer",
+      "league": "d1",
+      "team": "San Diego",
+      "gcu_years": "2025–26",
+      "opponent": "Biola",
+      "home": true,
+      "score_for": "79",
+      "score_against": "62",
+      "outcome": "W",
+      "pts": "12",
+      "reb": "6",
+      "ast": "3",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "24"
+        },
+        {
+          "label": "PTS",
+          "value": "12"
+        },
+        {
+          "label": "FG",
+          "value": "3-7"
+        },
+        {
+          "label": "3PT",
+          "value": "2-4"
+        },
+        {
+          "label": "FT",
+          "value": "4-7"
+        },
+        {
+          "label": "REB",
+          "value": "6"
+        },
+        {
+          "label": "AST",
+          "value": "3"
+        },
+        {
+          "label": "TO",
+          "value": "0"
+        },
+        {
+          "label": "STL",
+          "value": "3"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "1"
+        },
+        {
+          "label": "DREB",
+          "value": "5"
+        },
+        {
+          "label": "PF",
+          "value": "1"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401917508"
+    },
+    {
+      "id": "d1:401909759:evan-boisdur",
+      "event_id": "401909759",
+      "date": "2026-11-03T02:00Z",
+      "name": "Evan Boisdur",
+      "league": "d1",
+      "team": "Abilene Christian",
+      "gcu_years": "2025–26",
+      "opponent": "Colorado",
+      "home": false,
+      "score_for": "59",
+      "score_against": "94",
+      "outcome": "L",
+      "pts": "11",
+      "reb": "3",
+      "ast": "2",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "26"
+        },
+        {
+          "label": "PTS",
+          "value": "11"
+        },
+        {
+          "label": "FG",
+          "value": "4-9"
+        },
+        {
+          "label": "3PT",
+          "value": "2-4"
+        },
+        {
+          "label": "FT",
+          "value": "1-2"
+        },
+        {
+          "label": "REB",
+          "value": "3"
+        },
+        {
+          "label": "AST",
+          "value": "2"
+        },
+        {
+          "label": "TO",
+          "value": "1"
+        },
+        {
+          "label": "STL",
+          "value": "0"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "0"
+        },
+        {
+          "label": "DREB",
+          "value": "3"
+        },
+        {
+          "label": "PF",
+          "value": "3"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401909759"
+    }
+  ],
+  "coverage": {
+    "d1": {
+      "source": "ESPN (unofficial)",
+      "configured": true
+    },
+    "d2": {
+      "source": "NCAA.com via community proxy",
+      "configured": true
+    },
+    "d3": {
+      "source": "NCAA.com via community proxy",
+      "configured": true
+    },
+    "naia": {
+      "source": "MonteHall (key required; season coverage unverified)",
+      "configured": false
+    },
+    "gleague": {
+      "source": "ESPN G League (unofficial)",
+      "configured": true
+    },
+    "nba": {
+      "source": "ESPN (unofficial)",
+      "configured": true
+    }
+  }
+}
