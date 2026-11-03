@@ -6,6 +6,11 @@
   <meta name="theme-color" content="#120b21" />
   <meta name="description" content="Follow former Grand Canyon men's basketball players: college transfers and NBA / G League alumni, with game results and full available stat lines." />
   <title>Lopes Tracker | Beyond GCU</title>
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="apple-touch-icon" sizes="180x180" href="./icons/apple-touch-icon.png" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Lopes Tracker" />
   <link rel="stylesheet" href="./assets/styles.css" />
 </head>
 <body>
@@ -101,6 +106,14 @@
   </main>
 
   <footer class="footer"><div class="container footer-inner"><div class="footer-brand">LOPES<span>TRACKER</span><small>FOLLOW THE JOURNEY.</small></div><p>Unofficial alumni tracking project. Not affiliated with Grand Canyon University or ESPN. Data sources: ESPN, NCAA.com, and optional NAIA provider. Source availability varies.</p><a href="#top">BACK TO TOP ↑</a></div></footer>
+  <script>
+    if ('serviceWorker' in navigator && location.protocol === 'https:') {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./service-worker.js', { scope: './' })
+          .catch(error => console.warn('Offline app registration unavailable', error));
+      });
+    }
+  </script>
   <script src="./assets/app.js" defer></script>
 </body>
 </html>

@@ -1,0 +1,47 @@
+LOPES TRACKER — iPHONE HOME SCREEN UPGRADE
+
+This ZIP is an *upgrade*, not a replacement for your working basketball tracker.
+No Telegram secrets or game data are included. Keep your existing workflow
+(.github/workflows/main.yml) and all Python files exactly as they are.
+
+FILES INCLUDED:
+- index.html (add iPhone app metadata and service worker registration)
+- manifest.webmanifest (app name, colors, icon, startup behavior)
+- service-worker.js (offline shell and cached last-fetched game data)
+- icons/ (192px, 512px, and iPhone 180px home-screen icons)
+- .github/workflows/pages.yml (publish only public site files; refresh after updater)
+
+TO INSTALL THE UPGRADE TO YOUR GITHUB REPOSITORY:
+1. EXTRACT this zip locally. Do not upload the zip itself to GitHub.
+2. In your repo's Code tab choose Add file > Upload files.
+3. Drag in the extracted index.html, manifest.webmanifest, service-worker.js,
+   icons folder, and .github folder, preserving their relative paths.
+   Make sure the resulting repo shows icons/icon-192.png and
+   .github/workflows/pages.yml. The index.html should REPLACE the old one.
+4. Commit to main. Leave .github/workflows/main.yml alone.
+5. Under Settings > Pages > Build and deployment > Source choose GitHub Actions.
+   GitHub Pages requires a public repository on GitHub Free; private repositories
+   require an eligible paid plan. A Pages site is publicly accessible even when
+   its source repository is private. Do NOT make your repository public until you
+   have checked it contains no credentials or private data.
+6. Open Actions > Publish Lopes Tracker iPhone App > Run workflow for an
+   initial deployment, if the push-based run didn't deploy automatically.
+7. Once Pages provides a URL, open it in SAFARI on your iPhone.
+   Tap Share > Add to Home Screen > Open as Web App > Add.
+
+PER-GAME PHONE NOTIFICATIONS:
+Your existing Telegram bot continues sending the alerts; this app upgrade
+DOES NOT add native Web Push. It makes the web dashboard installable and
+available to open fullscreen. Future direct app push requires a subscription
+server, push permission, and a service-worker push handler.
+
+AUTO REFRESH:
+The Pages workflow listens for a completed Refresh Lopes Tracker workflow
+(via workflow_run), because changes pushed using GITHUB_TOKEN cannot trigger
+ordinary on-push workflows. It publishes only approved static files, omitting
+bot tokens, scripts, and data/notified.json. Scheduled tracker updates may be
+delayed and box scores may be incomplete for some leagues.
+
+NOTE: If Github Pages is not offered because your repo is private and your
+plan is Free, stop and choose a hosting plan with your preferred privacy
+settings. No need to recreate your Telegram bot.
