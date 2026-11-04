@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T02:33:56.879925+00:00",
+  "updated_at": "2026-11-04T03:34:53.378816+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,78 @@
     }
   ],
   "games": [
+    {
+      "id": "d1:401929372:braylon-johnson",
+      "event_id": "401929372",
+      "date": "2026-11-04T01:00Z",
+      "name": "Braylon Johnson",
+      "league": "d1",
+      "team": "Arkansas-Pine Bluff",
+      "gcu_years": "",
+      "opponent": "Arkansas",
+      "home": false,
+      "score_for": "61",
+      "score_against": "106",
+      "outcome": "L",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "10"
+        },
+        {
+          "label": "PTS",
+          "value": "0"
+        },
+        {
+          "label": "FG",
+          "value": "0-1"
+        },
+        {
+          "label": "3PT",
+          "value": "0-0"
+        },
+        {
+          "label": "FT",
+          "value": "0-0"
+        },
+        {
+          "label": "REB",
+          "value": "0"
+        },
+        {
+          "label": "AST",
+          "value": "0"
+        },
+        {
+          "label": "TO",
+          "value": "1"
+        },
+        {
+          "label": "STL",
+          "value": "0"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "0"
+        },
+        {
+          "label": "DREB",
+          "value": "0"
+        },
+        {
+          "label": "PF",
+          "value": "2"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401929372"
+    },
     {
       "id": "d1:401920716:austin-maurer",
       "event_id": "401920716",
