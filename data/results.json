@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T03:40:15.103574+00:00",
+  "updated_at": "2026-11-05T04:43:52.157289+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,78 @@
     }
   ],
   "games": [
+    {
+      "id": "d1:401918052:sammie-yeanay",
+      "event_id": "401918052",
+      "date": "2026-11-05T02:00Z",
+      "name": "Sammie Yeanay",
+      "league": "d1",
+      "team": "California",
+      "gcu_years": "",
+      "opponent": "Radford",
+      "home": true,
+      "score_for": "84",
+      "score_against": "70",
+      "outcome": "W",
+      "pts": "3",
+      "reb": "6",
+      "ast": "4",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "23"
+        },
+        {
+          "label": "PTS",
+          "value": "3"
+        },
+        {
+          "label": "FG",
+          "value": "1-7"
+        },
+        {
+          "label": "3PT",
+          "value": "1-5"
+        },
+        {
+          "label": "FT",
+          "value": "0-0"
+        },
+        {
+          "label": "REB",
+          "value": "6"
+        },
+        {
+          "label": "AST",
+          "value": "4"
+        },
+        {
+          "label": "TO",
+          "value": "3"
+        },
+        {
+          "label": "STL",
+          "value": "0"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "0"
+        },
+        {
+          "label": "DREB",
+          "value": "6"
+        },
+        {
+          "label": "PF",
+          "value": "4"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401918052"
+    },
     {
       "id": "d1:401929372:braylon-johnson",
       "event_id": "401929372",
