@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T04:36:16.450744+00:00",
+  "updated_at": "2026-11-07T05:34:14.916495+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -88,6 +88,78 @@
   ],
   "games": [
     {
+      "id": "d1:401921727:austin-maurer",
+      "event_id": "401921727",
+      "date": "2026-11-07T03:00Z",
+      "name": "Austin Maurer",
+      "league": "d1",
+      "team": "Stanford",
+      "gcu_years": "",
+      "opponent": "Oakland",
+      "home": true,
+      "score_for": "81",
+      "score_against": "63",
+      "outcome": "W",
+      "pts": "4",
+      "reb": "5",
+      "ast": "1",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "19"
+        },
+        {
+          "label": "PTS",
+          "value": "4"
+        },
+        {
+          "label": "FG",
+          "value": "2-4"
+        },
+        {
+          "label": "3PT",
+          "value": "0-0"
+        },
+        {
+          "label": "FT",
+          "value": "0-0"
+        },
+        {
+          "label": "REB",
+          "value": "5"
+        },
+        {
+          "label": "AST",
+          "value": "1"
+        },
+        {
+          "label": "TO",
+          "value": "0"
+        },
+        {
+          "label": "STL",
+          "value": "0"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "2"
+        },
+        {
+          "label": "DREB",
+          "value": "3"
+        },
+        {
+          "label": "PF",
+          "value": "5"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401921727"
+    },
+    {
       "id": "d1:401920344:dennis-evans",
       "event_id": "401920344",
       "date": "2026-11-07T02:30Z",
@@ -106,7 +178,7 @@
       "stats": [
         {
           "label": "MIN",
-          "value": "8"
+          "value": "9"
         },
         {
           "label": "PTS",
@@ -158,6 +230,78 @@
         }
       ],
       "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401920344"
+    },
+    {
+      "id": "d1:401917515:dusty-stromer",
+      "event_id": "401917515",
+      "date": "2026-11-07T02:30Z",
+      "name": "Dusty Stromer",
+      "league": "d1",
+      "team": "San Diego",
+      "gcu_years": "2025–26",
+      "opponent": "Tarleton State",
+      "home": true,
+      "score_for": "96",
+      "score_against": "90",
+      "outcome": "W",
+      "pts": "22",
+      "reb": "3",
+      "ast": "1",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "39"
+        },
+        {
+          "label": "PTS",
+          "value": "22"
+        },
+        {
+          "label": "FG",
+          "value": "4-12"
+        },
+        {
+          "label": "3PT",
+          "value": "2-6"
+        },
+        {
+          "label": "FT",
+          "value": "12-12"
+        },
+        {
+          "label": "REB",
+          "value": "3"
+        },
+        {
+          "label": "AST",
+          "value": "1"
+        },
+        {
+          "label": "TO",
+          "value": "0"
+        },
+        {
+          "label": "STL",
+          "value": "2"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "0"
+        },
+        {
+          "label": "DREB",
+          "value": "3"
+        },
+        {
+          "label": "PF",
+          "value": "2"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401917515"
     },
     {
       "id": "d1:401906802:duke-brennan",
