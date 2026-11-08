@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T23:02:11.255896+00:00",
+  "updated_at": "2026-11-08T23:56:17.516980+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,78 @@
     }
   ],
   "games": [
+    {
+      "id": "d1:401911453:styles-phipps",
+      "event_id": "401911453",
+      "date": "2026-11-08T21:30Z",
+      "name": "Styles Phipps",
+      "league": "d1",
+      "team": "Nevada",
+      "gcu_years": "",
+      "opponent": "Saint Mary's",
+      "home": true,
+      "score_for": "96",
+      "score_against": "95",
+      "outcome": "W",
+      "pts": "25",
+      "reb": "3",
+      "ast": "5",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "31"
+        },
+        {
+          "label": "PTS",
+          "value": "25"
+        },
+        {
+          "label": "FG",
+          "value": "10-12"
+        },
+        {
+          "label": "3PT",
+          "value": "1-2"
+        },
+        {
+          "label": "FT",
+          "value": "4-6"
+        },
+        {
+          "label": "REB",
+          "value": "3"
+        },
+        {
+          "label": "AST",
+          "value": "5"
+        },
+        {
+          "label": "TO",
+          "value": "2"
+        },
+        {
+          "label": "STL",
+          "value": "1"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "0"
+        },
+        {
+          "label": "DREB",
+          "value": "3"
+        },
+        {
+          "label": "PF",
+          "value": "5"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401911453"
+    },
     {
       "id": "gleague:401914512:gabe-mcglothan",
       "event_id": "401914512",
