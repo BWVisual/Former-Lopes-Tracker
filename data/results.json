@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T19:12:36.297077+00:00",
+  "updated_at": "2026-11-08T20:01:52.126010+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,82 @@
     }
   ],
   "games": [
+    {
+      "id": "gleague:401914512:gabe-mcglothan",
+      "event_id": "401914512",
+      "date": "2026-11-08T17:30Z",
+      "name": "Gabe McGlothan",
+      "league": "gleague",
+      "team": "Maine Celtics",
+      "gcu_years": "",
+      "opponent": "Westchester",
+      "home": true,
+      "score_for": "98",
+      "score_against": "93",
+      "outcome": "W",
+      "pts": "0",
+      "reb": "3",
+      "ast": "1",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "18"
+        },
+        {
+          "label": "PTS",
+          "value": "0"
+        },
+        {
+          "label": "FG",
+          "value": "0-1"
+        },
+        {
+          "label": "3PT",
+          "value": "0-0"
+        },
+        {
+          "label": "FT",
+          "value": "0-0"
+        },
+        {
+          "label": "REB",
+          "value": "3"
+        },
+        {
+          "label": "AST",
+          "value": "1"
+        },
+        {
+          "label": "TO",
+          "value": "1"
+        },
+        {
+          "label": "STL",
+          "value": "0"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "1"
+        },
+        {
+          "label": "DREB",
+          "value": "2"
+        },
+        {
+          "label": "PF",
+          "value": "6"
+        },
+        {
+          "label": "+/-",
+          "value": "-13"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/nba-development/boxscore/_/gameId/401914512"
+    },
     {
       "id": "d1:401917962:evan-boisdur",
       "event_id": "401917962",
