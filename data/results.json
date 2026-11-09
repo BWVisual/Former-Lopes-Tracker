@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T02:41:02.626174+00:00",
+  "updated_at": "2026-11-09T03:40:47.907140+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,78 @@
     }
   ],
   "games": [
+    {
+      "id": "d1:401918053:sammie-yeanay",
+      "event_id": "401918053",
+      "date": "2026-11-09T01:30Z",
+      "name": "Sammie Yeanay",
+      "league": "d1",
+      "team": "California",
+      "gcu_years": "",
+      "opponent": "Houston",
+      "home": false,
+      "score_for": "68",
+      "score_against": "86",
+      "outcome": "L",
+      "pts": "9",
+      "reb": "2",
+      "ast": "1",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "15"
+        },
+        {
+          "label": "PTS",
+          "value": "9"
+        },
+        {
+          "label": "FG",
+          "value": "3-9"
+        },
+        {
+          "label": "3PT",
+          "value": "2-4"
+        },
+        {
+          "label": "FT",
+          "value": "1-2"
+        },
+        {
+          "label": "REB",
+          "value": "2"
+        },
+        {
+          "label": "AST",
+          "value": "1"
+        },
+        {
+          "label": "TO",
+          "value": "1"
+        },
+        {
+          "label": "STL",
+          "value": "0"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "1"
+        },
+        {
+          "label": "DREB",
+          "value": "1"
+        },
+        {
+          "label": "PF",
+          "value": "1"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401918053"
+    },
     {
       "id": "d1:401911453:styles-phipps",
       "event_id": "401911453",
