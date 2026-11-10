@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T04:38:13.655463+00:00",
+  "updated_at": "2026-11-10T05:39:36.982785+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,150 @@
     }
   ],
   "games": [
+    {
+      "id": "d1:401921095:austin-maurer",
+      "event_id": "401921095",
+      "date": "2026-11-10T03:00Z",
+      "name": "Austin Maurer",
+      "league": "d1",
+      "team": "Stanford",
+      "gcu_years": "",
+      "opponent": "Rice",
+      "home": true,
+      "score_for": "91",
+      "score_against": "73",
+      "outcome": "W",
+      "pts": "14",
+      "reb": "11",
+      "ast": "0",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "27"
+        },
+        {
+          "label": "PTS",
+          "value": "14"
+        },
+        {
+          "label": "FG",
+          "value": "7-11"
+        },
+        {
+          "label": "3PT",
+          "value": "0-1"
+        },
+        {
+          "label": "FT",
+          "value": "0-0"
+        },
+        {
+          "label": "REB",
+          "value": "11"
+        },
+        {
+          "label": "AST",
+          "value": "0"
+        },
+        {
+          "label": "TO",
+          "value": "2"
+        },
+        {
+          "label": "STL",
+          "value": "3"
+        },
+        {
+          "label": "BLK",
+          "value": "1"
+        },
+        {
+          "label": "OREB",
+          "value": "2"
+        },
+        {
+          "label": "DREB",
+          "value": "9"
+        },
+        {
+          "label": "PF",
+          "value": "3"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401921095"
+    },
+    {
+      "id": "d1:401920718:dennis-evans",
+      "event_id": "401920718",
+      "date": "2026-11-10T02:30Z",
+      "name": "Dennis Evans",
+      "league": "d1",
+      "team": "Oregon State",
+      "gcu_years": "2024–26",
+      "opponent": "Eastern Washington",
+      "home": true,
+      "score_for": "94",
+      "score_against": "84",
+      "outcome": "W",
+      "pts": "1",
+      "reb": "7",
+      "ast": "0",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "12"
+        },
+        {
+          "label": "PTS",
+          "value": "1"
+        },
+        {
+          "label": "FG",
+          "value": "0-0"
+        },
+        {
+          "label": "3PT",
+          "value": "0-0"
+        },
+        {
+          "label": "FT",
+          "value": "1-2"
+        },
+        {
+          "label": "REB",
+          "value": "7"
+        },
+        {
+          "label": "AST",
+          "value": "0"
+        },
+        {
+          "label": "TO",
+          "value": "0"
+        },
+        {
+          "label": "STL",
+          "value": "0"
+        },
+        {
+          "label": "BLK",
+          "value": "3"
+        },
+        {
+          "label": "OREB",
+          "value": "0"
+        },
+        {
+          "label": "DREB",
+          "value": "7"
+        },
+        {
+          "label": "PF",
+          "value": "1"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401920718"
+    },
     {
       "id": "d1:401906803:duke-brennan",
       "event_id": "401906803",
