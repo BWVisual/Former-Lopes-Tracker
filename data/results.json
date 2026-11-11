@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T03:38:56.655578+00:00",
+  "updated_at": "2026-11-11T04:43:15.309963+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,78 @@
     }
   ],
   "games": [
+    {
+      "id": "d1:401909761:dusty-stromer",
+      "event_id": "401909761",
+      "date": "2026-11-11T02:00Z",
+      "name": "Dusty Stromer",
+      "league": "d1",
+      "team": "San Diego",
+      "gcu_years": "2025–26",
+      "opponent": "Colorado",
+      "home": false,
+      "score_for": "75",
+      "score_against": "83",
+      "outcome": "L",
+      "pts": "11",
+      "reb": "6",
+      "ast": "2",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "35"
+        },
+        {
+          "label": "PTS",
+          "value": "11"
+        },
+        {
+          "label": "FG",
+          "value": "4-11"
+        },
+        {
+          "label": "3PT",
+          "value": "2-5"
+        },
+        {
+          "label": "FT",
+          "value": "1-2"
+        },
+        {
+          "label": "REB",
+          "value": "6"
+        },
+        {
+          "label": "AST",
+          "value": "2"
+        },
+        {
+          "label": "TO",
+          "value": "1"
+        },
+        {
+          "label": "STL",
+          "value": "3"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "0"
+        },
+        {
+          "label": "DREB",
+          "value": "6"
+        },
+        {
+          "label": "PF",
+          "value": "2"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401909761"
+    },
     {
       "id": "d1:401921095:austin-maurer",
       "event_id": "401921095",
