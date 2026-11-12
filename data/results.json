@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T02:37:47.310920+00:00",
+  "updated_at": "2026-11-12T03:38:33.395192+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,78 @@
     }
   ],
   "games": [
+    {
+      "id": "d1:401917963:evan-boisdur",
+      "event_id": "401917963",
+      "date": "2026-11-12T01:00Z",
+      "name": "Evan Boisdur",
+      "league": "d1",
+      "team": "Abilene Christian",
+      "gcu_years": "2025–26",
+      "opponent": "Stephen F. Austin",
+      "home": true,
+      "score_for": "71",
+      "score_against": "76",
+      "outcome": "L",
+      "pts": "10",
+      "reb": "2",
+      "ast": "4",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "27"
+        },
+        {
+          "label": "PTS",
+          "value": "10"
+        },
+        {
+          "label": "FG",
+          "value": "3-8"
+        },
+        {
+          "label": "3PT",
+          "value": "1-2"
+        },
+        {
+          "label": "FT",
+          "value": "3-4"
+        },
+        {
+          "label": "REB",
+          "value": "2"
+        },
+        {
+          "label": "AST",
+          "value": "4"
+        },
+        {
+          "label": "TO",
+          "value": "2"
+        },
+        {
+          "label": "STL",
+          "value": "0"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "0"
+        },
+        {
+          "label": "DREB",
+          "value": "2"
+        },
+        {
+          "label": "PF",
+          "value": "3"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401917963"
+    },
     {
       "id": "d1:401909761:dusty-stromer",
       "event_id": "401909761",
