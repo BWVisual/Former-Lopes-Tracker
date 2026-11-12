@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T03:38:33.395192+00:00",
+  "updated_at": "2026-11-12T04:44:02.181178+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,150 @@
     }
   ],
   "games": [
+    {
+      "id": "d1:401930177:braylon-johnson",
+      "event_id": "401930177",
+      "date": "2026-11-12T02:00Z",
+      "name": "Braylon Johnson",
+      "league": "d1",
+      "team": "Arkansas-Pine Bluff",
+      "gcu_years": "",
+      "opponent": "UCLA",
+      "home": false,
+      "score_for": "37",
+      "score_against": "106",
+      "outcome": "L",
+      "pts": "0",
+      "reb": "2",
+      "ast": "1",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "6"
+        },
+        {
+          "label": "PTS",
+          "value": "0"
+        },
+        {
+          "label": "FG",
+          "value": "0-2"
+        },
+        {
+          "label": "3PT",
+          "value": "0-0"
+        },
+        {
+          "label": "FT",
+          "value": "0-0"
+        },
+        {
+          "label": "REB",
+          "value": "2"
+        },
+        {
+          "label": "AST",
+          "value": "1"
+        },
+        {
+          "label": "TO",
+          "value": "1"
+        },
+        {
+          "label": "STL",
+          "value": "0"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "1"
+        },
+        {
+          "label": "DREB",
+          "value": "1"
+        },
+        {
+          "label": "PF",
+          "value": "0"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401930177"
+    },
+    {
+      "id": "d1:401911454:styles-phipps",
+      "event_id": "401911454",
+      "date": "2026-11-12T02:00Z",
+      "name": "Styles Phipps",
+      "league": "d1",
+      "team": "Nevada",
+      "gcu_years": "",
+      "opponent": "UC Santa Barbara",
+      "home": false,
+      "score_for": "63",
+      "score_against": "76",
+      "outcome": "L",
+      "pts": "20",
+      "reb": "6",
+      "ast": "3",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "29"
+        },
+        {
+          "label": "PTS",
+          "value": "20"
+        },
+        {
+          "label": "FG",
+          "value": "6-9"
+        },
+        {
+          "label": "3PT",
+          "value": "0-2"
+        },
+        {
+          "label": "FT",
+          "value": "8-8"
+        },
+        {
+          "label": "REB",
+          "value": "6"
+        },
+        {
+          "label": "AST",
+          "value": "3"
+        },
+        {
+          "label": "TO",
+          "value": "3"
+        },
+        {
+          "label": "STL",
+          "value": "2"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "2"
+        },
+        {
+          "label": "DREB",
+          "value": "4"
+        },
+        {
+          "label": "PF",
+          "value": "3"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401911454"
+    },
     {
       "id": "d1:401917963:evan-boisdur",
       "event_id": "401917963",
