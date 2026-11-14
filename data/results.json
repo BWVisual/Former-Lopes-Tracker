@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T23:27:07.858408+00:00",
+  "updated_at": "2026-11-14T23:58:00.022454+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,78 @@
     }
   ],
   "games": [
+    {
+      "id": "d1:401918055:sammie-yeanay",
+      "event_id": "401918055",
+      "date": "2026-11-14T22:00Z",
+      "name": "Sammie Yeanay",
+      "league": "d1",
+      "team": "California",
+      "gcu_years": "",
+      "opponent": "Utah Tech",
+      "home": true,
+      "score_for": "79",
+      "score_against": "73",
+      "outcome": "W",
+      "pts": "7",
+      "reb": "7",
+      "ast": "1",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "27"
+        },
+        {
+          "label": "PTS",
+          "value": "7"
+        },
+        {
+          "label": "FG",
+          "value": "3-8"
+        },
+        {
+          "label": "3PT",
+          "value": "0-1"
+        },
+        {
+          "label": "FT",
+          "value": "1-2"
+        },
+        {
+          "label": "REB",
+          "value": "7"
+        },
+        {
+          "label": "AST",
+          "value": "1"
+        },
+        {
+          "label": "TO",
+          "value": "1"
+        },
+        {
+          "label": "STL",
+          "value": "2"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "2"
+        },
+        {
+          "label": "DREB",
+          "value": "5"
+        },
+        {
+          "label": "PF",
+          "value": "3"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401918055"
+    },
     {
       "id": "d1:401920345:braylon-johnson",
       "event_id": "401920345",
