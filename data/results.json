@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T01:49:33.038705+00:00",
+  "updated_at": "2026-11-14T02:35:27.172922+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,82 @@
     }
   ],
   "games": [
+    {
+      "id": "gleague:401914538:gabe-mcglothan",
+      "event_id": "401914538",
+      "date": "2026-11-14T00:00Z",
+      "name": "Gabe McGlothan",
+      "league": "gleague",
+      "team": "Maine Celtics",
+      "gcu_years": "",
+      "opponent": "Delaware",
+      "home": false,
+      "score_for": "142",
+      "score_against": "116",
+      "outcome": "W",
+      "pts": "6",
+      "reb": "4",
+      "ast": "0",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "18"
+        },
+        {
+          "label": "PTS",
+          "value": "6"
+        },
+        {
+          "label": "FG",
+          "value": "3-5"
+        },
+        {
+          "label": "3PT",
+          "value": "0-2"
+        },
+        {
+          "label": "FT",
+          "value": "0-1"
+        },
+        {
+          "label": "REB",
+          "value": "4"
+        },
+        {
+          "label": "AST",
+          "value": "0"
+        },
+        {
+          "label": "TO",
+          "value": "0"
+        },
+        {
+          "label": "STL",
+          "value": "1"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "0"
+        },
+        {
+          "label": "DREB",
+          "value": "4"
+        },
+        {
+          "label": "PF",
+          "value": "4"
+        },
+        {
+          "label": "+/-",
+          "value": "+32"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/nba-development/boxscore/_/gameId/401914538"
+    },
     {
       "id": "d1:401918054:sammie-yeanay",
       "event_id": "401918054",
