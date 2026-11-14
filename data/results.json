@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T03:34:26.988309+00:00",
+  "updated_at": "2026-11-14T04:37:54.366735+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,222 @@
     }
   ],
   "games": [
+    {
+      "id": "d1:401917526:dusty-stromer",
+      "event_id": "401917526",
+      "date": "2026-11-14T02:30Z",
+      "name": "Dusty Stromer",
+      "league": "d1",
+      "team": "San Diego",
+      "gcu_years": "2025–26",
+      "opponent": "Chicago State",
+      "home": true,
+      "score_for": "87",
+      "score_against": "67",
+      "outcome": "W",
+      "pts": "10",
+      "reb": "3",
+      "ast": "3",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "27"
+        },
+        {
+          "label": "PTS",
+          "value": "10"
+        },
+        {
+          "label": "FG",
+          "value": "3-6"
+        },
+        {
+          "label": "3PT",
+          "value": "1-3"
+        },
+        {
+          "label": "FT",
+          "value": "3-3"
+        },
+        {
+          "label": "REB",
+          "value": "3"
+        },
+        {
+          "label": "AST",
+          "value": "3"
+        },
+        {
+          "label": "TO",
+          "value": "1"
+        },
+        {
+          "label": "STL",
+          "value": "3"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "0"
+        },
+        {
+          "label": "DREB",
+          "value": "3"
+        },
+        {
+          "label": "PF",
+          "value": "3"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401917526"
+    },
+    {
+      "id": "d1:401925739:dennis-evans",
+      "event_id": "401925739",
+      "date": "2026-11-14T02:30Z",
+      "name": "Dennis Evans",
+      "league": "d1",
+      "team": "Oregon State",
+      "gcu_years": "2024–26",
+      "opponent": "Mississippi Valley State",
+      "home": true,
+      "score_for": "81",
+      "score_against": "65",
+      "outcome": "W",
+      "pts": "3",
+      "reb": "8",
+      "ast": "0",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "15"
+        },
+        {
+          "label": "PTS",
+          "value": "3"
+        },
+        {
+          "label": "FG",
+          "value": "0-0"
+        },
+        {
+          "label": "3PT",
+          "value": "0-0"
+        },
+        {
+          "label": "FT",
+          "value": "3-4"
+        },
+        {
+          "label": "REB",
+          "value": "8"
+        },
+        {
+          "label": "AST",
+          "value": "0"
+        },
+        {
+          "label": "TO",
+          "value": "1"
+        },
+        {
+          "label": "STL",
+          "value": "0"
+        },
+        {
+          "label": "BLK",
+          "value": "2"
+        },
+        {
+          "label": "OREB",
+          "value": "2"
+        },
+        {
+          "label": "DREB",
+          "value": "6"
+        },
+        {
+          "label": "PF",
+          "value": "0"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401925739"
+    },
+    {
+      "id": "d1:401921728:austin-maurer",
+      "event_id": "401921728",
+      "date": "2026-11-14T02:00Z",
+      "name": "Austin Maurer",
+      "league": "d1",
+      "team": "Stanford",
+      "gcu_years": "",
+      "opponent": "UNLV",
+      "home": false,
+      "score_for": "68",
+      "score_against": "76",
+      "outcome": "L",
+      "pts": "20",
+      "reb": "9",
+      "ast": "0",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "33"
+        },
+        {
+          "label": "PTS",
+          "value": "20"
+        },
+        {
+          "label": "FG",
+          "value": "10-11"
+        },
+        {
+          "label": "3PT",
+          "value": "0-0"
+        },
+        {
+          "label": "FT",
+          "value": "0-0"
+        },
+        {
+          "label": "REB",
+          "value": "9"
+        },
+        {
+          "label": "AST",
+          "value": "0"
+        },
+        {
+          "label": "TO",
+          "value": "0"
+        },
+        {
+          "label": "STL",
+          "value": "3"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "4"
+        },
+        {
+          "label": "DREB",
+          "value": "5"
+        },
+        {
+          "label": "PF",
+          "value": "4"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401921728"
+    },
     {
       "id": "d1:401906804:duke-brennan",
       "event_id": "401906804",
@@ -178,7 +394,7 @@
       "stats": [
         {
           "label": "MIN",
-          "value": "-"
+          "value": "1"
         },
         {
           "label": "PTS",
