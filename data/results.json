@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T02:35:27.172922+00:00",
+  "updated_at": "2026-11-14T03:34:26.988309+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,150 @@
     }
   ],
   "games": [
+    {
+      "id": "d1:401906804:duke-brennan",
+      "event_id": "401906804",
+      "date": "2026-11-14T01:00Z",
+      "name": "Duke Brennan",
+      "league": "d1",
+      "team": "Oklahoma",
+      "gcu_years": "",
+      "opponent": "Fairleigh Dickinson",
+      "home": true,
+      "score_for": "74",
+      "score_against": "58",
+      "outcome": "W",
+      "pts": "8",
+      "reb": "8",
+      "ast": "1",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "22"
+        },
+        {
+          "label": "PTS",
+          "value": "8"
+        },
+        {
+          "label": "FG",
+          "value": "3-8"
+        },
+        {
+          "label": "3PT",
+          "value": "0-0"
+        },
+        {
+          "label": "FT",
+          "value": "2-4"
+        },
+        {
+          "label": "REB",
+          "value": "8"
+        },
+        {
+          "label": "AST",
+          "value": "1"
+        },
+        {
+          "label": "TO",
+          "value": "1"
+        },
+        {
+          "label": "STL",
+          "value": "1"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "6"
+        },
+        {
+          "label": "DREB",
+          "value": "2"
+        },
+        {
+          "label": "PF",
+          "value": "2"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401906804"
+    },
+    {
+      "id": "d1:401916316:isaiah-shaw",
+      "event_id": "401916316",
+      "date": "2026-11-14T00:30Z",
+      "name": "Isaiah Shaw",
+      "league": "d1",
+      "team": "Connecticut",
+      "gcu_years": "",
+      "opponent": "Ohio State",
+      "home": true,
+      "score_for": "84",
+      "score_against": "68",
+      "outcome": "W",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "-"
+        },
+        {
+          "label": "PTS",
+          "value": "0"
+        },
+        {
+          "label": "FG",
+          "value": "0-0"
+        },
+        {
+          "label": "3PT",
+          "value": "0-0"
+        },
+        {
+          "label": "FT",
+          "value": "0-0"
+        },
+        {
+          "label": "REB",
+          "value": "0"
+        },
+        {
+          "label": "AST",
+          "value": "0"
+        },
+        {
+          "label": "TO",
+          "value": "0"
+        },
+        {
+          "label": "STL",
+          "value": "0"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "0"
+        },
+        {
+          "label": "DREB",
+          "value": "0"
+        },
+        {
+          "label": "PF",
+          "value": "1"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401916316"
+    },
     {
       "id": "gleague:401914538:gabe-mcglothan",
       "event_id": "401914538",
