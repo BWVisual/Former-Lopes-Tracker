@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T02:41:11.357614+00:00",
+  "updated_at": "2026-11-17T03:39:54.136088+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,78 @@
     }
   ],
   "games": [
+    {
+      "id": "d1:401917964:evan-boisdur",
+      "event_id": "401917964",
+      "date": "2026-11-17T01:00Z",
+      "name": "Evan Boisdur",
+      "league": "d1",
+      "team": "Abilene Christian",
+      "gcu_years": "2025–26",
+      "opponent": "Missouri State",
+      "home": false,
+      "score_for": "64",
+      "score_against": "73",
+      "outcome": "L",
+      "pts": "13",
+      "reb": "2",
+      "ast": "3",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "34"
+        },
+        {
+          "label": "PTS",
+          "value": "13"
+        },
+        {
+          "label": "FG",
+          "value": "4-10"
+        },
+        {
+          "label": "3PT",
+          "value": "0-1"
+        },
+        {
+          "label": "FT",
+          "value": "5-8"
+        },
+        {
+          "label": "REB",
+          "value": "2"
+        },
+        {
+          "label": "AST",
+          "value": "3"
+        },
+        {
+          "label": "TO",
+          "value": "2"
+        },
+        {
+          "label": "STL",
+          "value": "3"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "0"
+        },
+        {
+          "label": "DREB",
+          "value": "2"
+        },
+        {
+          "label": "PF",
+          "value": "4"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401917964"
+    },
     {
       "id": "d1:401926772:braylon-johnson",
       "event_id": "401926772",
