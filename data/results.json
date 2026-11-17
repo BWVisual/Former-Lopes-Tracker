@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T03:39:54.136088+00:00",
+  "updated_at": "2026-11-17T04:44:31.321398+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,78 @@
     }
   ],
   "games": [
+    {
+      "id": "d1:401929192:dennis-evans",
+      "event_id": "401929192",
+      "date": "2026-11-17T02:30Z",
+      "name": "Dennis Evans",
+      "league": "d1",
+      "team": "Oregon State",
+      "gcu_years": "2024–26",
+      "opponent": "East Texas A&M",
+      "home": true,
+      "score_for": "109",
+      "score_against": "71",
+      "outcome": "W",
+      "pts": "4",
+      "reb": "5",
+      "ast": "0",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "10"
+        },
+        {
+          "label": "PTS",
+          "value": "4"
+        },
+        {
+          "label": "FG",
+          "value": "1-1"
+        },
+        {
+          "label": "3PT",
+          "value": "0-0"
+        },
+        {
+          "label": "FT",
+          "value": "2-2"
+        },
+        {
+          "label": "REB",
+          "value": "5"
+        },
+        {
+          "label": "AST",
+          "value": "0"
+        },
+        {
+          "label": "TO",
+          "value": "1"
+        },
+        {
+          "label": "STL",
+          "value": "1"
+        },
+        {
+          "label": "BLK",
+          "value": "1"
+        },
+        {
+          "label": "OREB",
+          "value": "2"
+        },
+        {
+          "label": "DREB",
+          "value": "3"
+        },
+        {
+          "label": "PF",
+          "value": "1"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401929192"
+    },
     {
       "id": "d1:401917964:evan-boisdur",
       "event_id": "401917964",
