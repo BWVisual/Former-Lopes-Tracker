@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T04:22:11.148170+00:00",
+  "updated_at": "2026-11-18T05:25:33.619350+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,78 @@
     }
   ],
   "games": [
+    {
+      "id": "d1:401921729:austin-maurer",
+      "event_id": "401921729",
+      "date": "2026-11-18T03:00Z",
+      "name": "Austin Maurer",
+      "league": "d1",
+      "team": "Stanford",
+      "gcu_years": "",
+      "opponent": "UC Irvine",
+      "home": true,
+      "score_for": "65",
+      "score_against": "61",
+      "outcome": "W",
+      "pts": "13",
+      "reb": "3",
+      "ast": "3",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "26"
+        },
+        {
+          "label": "PTS",
+          "value": "13"
+        },
+        {
+          "label": "FG",
+          "value": "5-17"
+        },
+        {
+          "label": "3PT",
+          "value": "3-11"
+        },
+        {
+          "label": "FT",
+          "value": "0-2"
+        },
+        {
+          "label": "REB",
+          "value": "3"
+        },
+        {
+          "label": "AST",
+          "value": "3"
+        },
+        {
+          "label": "TO",
+          "value": "1"
+        },
+        {
+          "label": "STL",
+          "value": "1"
+        },
+        {
+          "label": "BLK",
+          "value": "2"
+        },
+        {
+          "label": "OREB",
+          "value": "2"
+        },
+        {
+          "label": "DREB",
+          "value": "1"
+        },
+        {
+          "label": "PF",
+          "value": "2"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401921729"
+    },
     {
       "id": "d1:401924265:noah-amenhauser",
       "event_id": "401924265",
