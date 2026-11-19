@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T03:42:44.670152+00:00",
+  "updated_at": "2026-11-19T04:50:22.881793+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,150 @@
     }
   ],
   "games": [
+    {
+      "id": "d1:401917535:dusty-stromer",
+      "event_id": "401917535",
+      "date": "2026-11-19T02:30Z",
+      "name": "Dusty Stromer",
+      "league": "d1",
+      "team": "San Diego",
+      "gcu_years": "2025–26",
+      "opponent": "UC Riverside",
+      "home": true,
+      "score_for": "71",
+      "score_against": "62",
+      "outcome": "W",
+      "pts": "20",
+      "reb": "1",
+      "ast": "0",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "34"
+        },
+        {
+          "label": "PTS",
+          "value": "20"
+        },
+        {
+          "label": "FG",
+          "value": "6-11"
+        },
+        {
+          "label": "3PT",
+          "value": "2-3"
+        },
+        {
+          "label": "FT",
+          "value": "6-6"
+        },
+        {
+          "label": "REB",
+          "value": "1"
+        },
+        {
+          "label": "AST",
+          "value": "0"
+        },
+        {
+          "label": "TO",
+          "value": "1"
+        },
+        {
+          "label": "STL",
+          "value": "1"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "0"
+        },
+        {
+          "label": "DREB",
+          "value": "1"
+        },
+        {
+          "label": "PF",
+          "value": "2"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401917535"
+    },
+    {
+      "id": "d1:401917965:evan-boisdur",
+      "event_id": "401917965",
+      "date": "2026-11-19T02:00Z",
+      "name": "Evan Boisdur",
+      "league": "d1",
+      "team": "Abilene Christian",
+      "gcu_years": "2025–26",
+      "opponent": "McMurry",
+      "home": true,
+      "score_for": "103",
+      "score_against": "41",
+      "outcome": "W",
+      "pts": "9",
+      "reb": "2",
+      "ast": "2",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "20"
+        },
+        {
+          "label": "PTS",
+          "value": "9"
+        },
+        {
+          "label": "FG",
+          "value": "4-7"
+        },
+        {
+          "label": "3PT",
+          "value": "1-2"
+        },
+        {
+          "label": "FT",
+          "value": "0-0"
+        },
+        {
+          "label": "REB",
+          "value": "2"
+        },
+        {
+          "label": "AST",
+          "value": "2"
+        },
+        {
+          "label": "TO",
+          "value": "2"
+        },
+        {
+          "label": "STL",
+          "value": "0"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "0"
+        },
+        {
+          "label": "DREB",
+          "value": "2"
+        },
+        {
+          "label": "PF",
+          "value": "1"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401917965"
+    },
     {
       "id": "d1:401928398:braylon-johnson",
       "event_id": "401928398",
