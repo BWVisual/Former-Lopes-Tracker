@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T01:57:39.249715+00:00",
+  "updated_at": "2026-11-21T02:41:20.690597+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,82 @@
     }
   ],
   "games": [
+    {
+      "id": "gleague:401914577:gabe-mcglothan",
+      "event_id": "401914577",
+      "date": "2026-11-21T00:00Z",
+      "name": "Gabe McGlothan",
+      "league": "gleague",
+      "team": "Maine Celtics",
+      "gcu_years": "",
+      "opponent": "Capital City",
+      "home": true,
+      "score_for": "114",
+      "score_against": "102",
+      "outcome": "W",
+      "pts": "6",
+      "reb": "2",
+      "ast": "1",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "20"
+        },
+        {
+          "label": "PTS",
+          "value": "6"
+        },
+        {
+          "label": "FG",
+          "value": "3-7"
+        },
+        {
+          "label": "3PT",
+          "value": "0-2"
+        },
+        {
+          "label": "FT",
+          "value": "0-0"
+        },
+        {
+          "label": "REB",
+          "value": "2"
+        },
+        {
+          "label": "AST",
+          "value": "1"
+        },
+        {
+          "label": "TO",
+          "value": "1"
+        },
+        {
+          "label": "STL",
+          "value": "1"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "1"
+        },
+        {
+          "label": "DREB",
+          "value": "1"
+        },
+        {
+          "label": "PF",
+          "value": "0"
+        },
+        {
+          "label": "+/-",
+          "value": "-4"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/nba-development/boxscore/_/gameId/401914577"
+    },
     {
       "id": "d1:401920349:austin-maurer",
       "event_id": "401920349",
