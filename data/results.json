@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T23:02:13.227279+00:00",
+  "updated_at": "2026-11-21T23:58:18.433911+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,78 @@
     }
   ],
   "games": [
+    {
+      "id": "d1:401917538:dusty-stromer",
+      "event_id": "401917538",
+      "date": "2026-11-21T21:30Z",
+      "name": "Dusty Stromer",
+      "league": "d1",
+      "team": "San Diego",
+      "gcu_years": "2025–26",
+      "opponent": "UC Irvine",
+      "home": false,
+      "score_for": "67",
+      "score_against": "64",
+      "outcome": "W",
+      "pts": "6",
+      "reb": "2",
+      "ast": "0",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "34"
+        },
+        {
+          "label": "PTS",
+          "value": "6"
+        },
+        {
+          "label": "FG",
+          "value": "2-4"
+        },
+        {
+          "label": "3PT",
+          "value": "1-3"
+        },
+        {
+          "label": "FT",
+          "value": "1-2"
+        },
+        {
+          "label": "REB",
+          "value": "2"
+        },
+        {
+          "label": "AST",
+          "value": "0"
+        },
+        {
+          "label": "TO",
+          "value": "2"
+        },
+        {
+          "label": "STL",
+          "value": "0"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "0"
+        },
+        {
+          "label": "DREB",
+          "value": "2"
+        },
+        {
+          "label": "PF",
+          "value": "3"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401917538"
+    },
     {
       "id": "gleague:401914577:gabe-mcglothan",
       "event_id": "401914577",
