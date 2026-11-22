@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T20:08:43.130418+00:00",
+  "updated_at": "2026-11-22T21:07:35.580985+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,154 @@
     }
   ],
   "games": [
+    {
+      "id": "d1:401911200:dusty-stromer",
+      "event_id": "401911200",
+      "date": "2026-11-22T19:00Z",
+      "name": "Dusty Stromer",
+      "league": "d1",
+      "team": "San Diego",
+      "gcu_years": "2025–26",
+      "opponent": "Fordham",
+      "home": true,
+      "score_for": "80",
+      "score_against": "58",
+      "outcome": "W",
+      "pts": "8",
+      "reb": "6",
+      "ast": "3",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "30"
+        },
+        {
+          "label": "PTS",
+          "value": "8"
+        },
+        {
+          "label": "FG",
+          "value": "2-5"
+        },
+        {
+          "label": "3PT",
+          "value": "1-4"
+        },
+        {
+          "label": "FT",
+          "value": "3-5"
+        },
+        {
+          "label": "REB",
+          "value": "6"
+        },
+        {
+          "label": "AST",
+          "value": "3"
+        },
+        {
+          "label": "TO",
+          "value": "3"
+        },
+        {
+          "label": "STL",
+          "value": "2"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "0"
+        },
+        {
+          "label": "DREB",
+          "value": "6"
+        },
+        {
+          "label": "PF",
+          "value": "0"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401911200"
+    },
+    {
+      "id": "gleague:401914590:gabe-mcglothan",
+      "event_id": "401914590",
+      "date": "2026-11-22T18:00Z",
+      "name": "Gabe McGlothan",
+      "league": "gleague",
+      "team": "Maine Celtics",
+      "gcu_years": "",
+      "opponent": "Capital City",
+      "home": true,
+      "score_for": "93",
+      "score_against": "85",
+      "outcome": "W",
+      "pts": "14",
+      "reb": "7",
+      "ast": "0",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "22"
+        },
+        {
+          "label": "PTS",
+          "value": "14"
+        },
+        {
+          "label": "FG",
+          "value": "5-10"
+        },
+        {
+          "label": "3PT",
+          "value": "0-2"
+        },
+        {
+          "label": "FT",
+          "value": "2-3"
+        },
+        {
+          "label": "REB",
+          "value": "7"
+        },
+        {
+          "label": "AST",
+          "value": "0"
+        },
+        {
+          "label": "TO",
+          "value": "1"
+        },
+        {
+          "label": "STL",
+          "value": "2"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "5"
+        },
+        {
+          "label": "DREB",
+          "value": "2"
+        },
+        {
+          "label": "PF",
+          "value": "4"
+        },
+        {
+          "label": "+/-",
+          "value": "+15"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/nba-development/boxscore/_/gameId/401914590"
+    },
     {
       "id": "d1:401917966:evan-boisdur",
       "event_id": "401917966",
