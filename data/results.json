@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T20:18:47.184270+00:00",
+  "updated_at": "2026-11-23T21:14:51.144649+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,78 @@
     }
   ],
   "games": [
+    {
+      "id": "d1:401921658:dennis-evans",
+      "event_id": "401921658",
+      "date": "2026-11-23T19:00Z",
+      "name": "Dennis Evans",
+      "league": "d1",
+      "team": "Oregon State",
+      "gcu_years": "2024–26",
+      "opponent": "Tulsa",
+      "home": true,
+      "score_for": "69",
+      "score_against": "66",
+      "outcome": "W",
+      "pts": "2",
+      "reb": "2",
+      "ast": "0",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "8"
+        },
+        {
+          "label": "PTS",
+          "value": "2"
+        },
+        {
+          "label": "FG",
+          "value": "1-1"
+        },
+        {
+          "label": "3PT",
+          "value": "0-0"
+        },
+        {
+          "label": "FT",
+          "value": "0-1"
+        },
+        {
+          "label": "REB",
+          "value": "2"
+        },
+        {
+          "label": "AST",
+          "value": "0"
+        },
+        {
+          "label": "TO",
+          "value": "2"
+        },
+        {
+          "label": "STL",
+          "value": "0"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "0"
+        },
+        {
+          "label": "DREB",
+          "value": "2"
+        },
+        {
+          "label": "PF",
+          "value": "1"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401921658"
+    },
     {
       "id": "d1:401924266:noah-amenhauser",
       "event_id": "401924266",
