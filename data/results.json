@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T20:39:47.053164+00:00",
+  "updated_at": "2026-11-24T21:42:29.883587+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,78 @@
     }
   ],
   "games": [
+    {
+      "id": "d1:401917676:dennis-evans",
+      "event_id": "401917676",
+      "date": "2026-11-24T19:00Z",
+      "name": "Dennis Evans",
+      "league": "d1",
+      "team": "Oregon State",
+      "gcu_years": "2024–26",
+      "opponent": "San Francisco",
+      "home": true,
+      "score_for": "87",
+      "score_against": "73",
+      "outcome": "W",
+      "pts": "6",
+      "reb": "1",
+      "ast": "0",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "13"
+        },
+        {
+          "label": "PTS",
+          "value": "6"
+        },
+        {
+          "label": "FG",
+          "value": "3-4"
+        },
+        {
+          "label": "3PT",
+          "value": "0-0"
+        },
+        {
+          "label": "FT",
+          "value": "0-0"
+        },
+        {
+          "label": "REB",
+          "value": "1"
+        },
+        {
+          "label": "AST",
+          "value": "0"
+        },
+        {
+          "label": "TO",
+          "value": "2"
+        },
+        {
+          "label": "STL",
+          "value": "0"
+        },
+        {
+          "label": "BLK",
+          "value": "3"
+        },
+        {
+          "label": "OREB",
+          "value": "1"
+        },
+        {
+          "label": "DREB",
+          "value": "0"
+        },
+        {
+          "label": "PF",
+          "value": "2"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401917676"
+    },
     {
       "id": "d1:401918057:sammie-yeanay",
       "event_id": "401918057",
