@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T04:52:42.357156+00:00",
+  "updated_at": "2026-11-24T05:47:20.764327+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,78 @@
     }
   ],
   "games": [
+    {
+      "id": "d1:401918057:sammie-yeanay",
+      "event_id": "401918057",
+      "date": "2026-11-24T03:00Z",
+      "name": "Sammie Yeanay",
+      "league": "d1",
+      "team": "California",
+      "gcu_years": "",
+      "opponent": "Alabama State",
+      "home": true,
+      "score_for": "96",
+      "score_against": "54",
+      "outcome": "W",
+      "pts": "10",
+      "reb": "2",
+      "ast": "4",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "21"
+        },
+        {
+          "label": "PTS",
+          "value": "10"
+        },
+        {
+          "label": "FG",
+          "value": "5-6"
+        },
+        {
+          "label": "3PT",
+          "value": "0-0"
+        },
+        {
+          "label": "FT",
+          "value": "0-0"
+        },
+        {
+          "label": "REB",
+          "value": "2"
+        },
+        {
+          "label": "AST",
+          "value": "4"
+        },
+        {
+          "label": "TO",
+          "value": "3"
+        },
+        {
+          "label": "STL",
+          "value": "1"
+        },
+        {
+          "label": "BLK",
+          "value": "2"
+        },
+        {
+          "label": "OREB",
+          "value": "0"
+        },
+        {
+          "label": "DREB",
+          "value": "2"
+        },
+        {
+          "label": "PF",
+          "value": "2"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401918057"
+    },
     {
       "id": "d1:401911457:styles-phipps",
       "event_id": "401911457",
