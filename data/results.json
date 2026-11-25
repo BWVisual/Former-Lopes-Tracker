@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T19:42:51.704072+00:00",
+  "updated_at": "2026-11-25T20:40:33.956068+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,78 @@
     }
   ],
   "games": [
+    {
+      "id": "d1:401924268:noah-amenhauser",
+      "event_id": "401924268",
+      "date": "2026-11-25T18:00Z",
+      "name": "Noah Amenhauser",
+      "league": "d1",
+      "team": "Long Beach State",
+      "gcu_years": "",
+      "opponent": "Southern Utah",
+      "home": true,
+      "score_for": "65",
+      "score_against": "64",
+      "outcome": "W",
+      "pts": "22",
+      "reb": "5",
+      "ast": "0",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "29"
+        },
+        {
+          "label": "PTS",
+          "value": "22"
+        },
+        {
+          "label": "FG",
+          "value": "9-16"
+        },
+        {
+          "label": "3PT",
+          "value": "0-1"
+        },
+        {
+          "label": "FT",
+          "value": "4-6"
+        },
+        {
+          "label": "REB",
+          "value": "5"
+        },
+        {
+          "label": "AST",
+          "value": "0"
+        },
+        {
+          "label": "TO",
+          "value": "3"
+        },
+        {
+          "label": "STL",
+          "value": "1"
+        },
+        {
+          "label": "BLK",
+          "value": "2"
+        },
+        {
+          "label": "OREB",
+          "value": "3"
+        },
+        {
+          "label": "DREB",
+          "value": "2"
+        },
+        {
+          "label": "PF",
+          "value": "3"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401924268"
+    },
     {
       "id": "d1:401909763:austin-maurer",
       "event_id": "401909763",
