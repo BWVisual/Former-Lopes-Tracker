@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T06:51:21.935821+00:00",
+  "updated_at": "2026-11-25T08:21:01.131396+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,78 @@
     }
   ],
   "games": [
+    {
+      "id": "d1:401909763:austin-maurer",
+      "event_id": "401909763",
+      "date": "2026-11-25T06:00Z",
+      "name": "Austin Maurer",
+      "league": "d1",
+      "team": "Stanford",
+      "gcu_years": "",
+      "opponent": "Colorado",
+      "home": true,
+      "score_for": "65",
+      "score_against": "70",
+      "outcome": "L",
+      "pts": "6",
+      "reb": "5",
+      "ast": "0",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "24"
+        },
+        {
+          "label": "PTS",
+          "value": "6"
+        },
+        {
+          "label": "FG",
+          "value": "2-3"
+        },
+        {
+          "label": "3PT",
+          "value": "0-0"
+        },
+        {
+          "label": "FT",
+          "value": "2-2"
+        },
+        {
+          "label": "REB",
+          "value": "5"
+        },
+        {
+          "label": "AST",
+          "value": "0"
+        },
+        {
+          "label": "TO",
+          "value": "2"
+        },
+        {
+          "label": "STL",
+          "value": "0"
+        },
+        {
+          "label": "BLK",
+          "value": "1"
+        },
+        {
+          "label": "OREB",
+          "value": "1"
+        },
+        {
+          "label": "DREB",
+          "value": "4"
+        },
+        {
+          "label": "PF",
+          "value": "5"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401909763"
+    },
     {
       "id": "d1:401911458:styles-phipps",
       "event_id": "401911458",
