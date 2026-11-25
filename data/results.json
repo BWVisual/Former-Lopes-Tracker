@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T20:40:33.956068+00:00",
+  "updated_at": "2026-11-25T21:44:56.488597+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,150 @@
     }
   ],
   "games": [
+    {
+      "id": "d1:401929406:braylon-johnson",
+      "event_id": "401929406",
+      "date": "2026-11-25T19:00Z",
+      "name": "Braylon Johnson",
+      "league": "d1",
+      "team": "Arkansas-Pine Bluff",
+      "gcu_years": "",
+      "opponent": "South Dakota",
+      "home": false,
+      "score_for": "50",
+      "score_against": "86",
+      "outcome": "L",
+      "pts": "0",
+      "reb": "3",
+      "ast": "0",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "11"
+        },
+        {
+          "label": "PTS",
+          "value": "0"
+        },
+        {
+          "label": "FG",
+          "value": "0-0"
+        },
+        {
+          "label": "3PT",
+          "value": "0-0"
+        },
+        {
+          "label": "FT",
+          "value": "0-0"
+        },
+        {
+          "label": "REB",
+          "value": "3"
+        },
+        {
+          "label": "AST",
+          "value": "0"
+        },
+        {
+          "label": "TO",
+          "value": "0"
+        },
+        {
+          "label": "STL",
+          "value": "1"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "1"
+        },
+        {
+          "label": "DREB",
+          "value": "2"
+        },
+        {
+          "label": "PF",
+          "value": "2"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401929406"
+    },
+    {
+      "id": "d1:401917967:evan-boisdur",
+      "event_id": "401917967",
+      "date": "2026-11-25T19:00Z",
+      "name": "Evan Boisdur",
+      "league": "d1",
+      "team": "Abilene Christian",
+      "gcu_years": "2025–26",
+      "opponent": "South Dakota State",
+      "home": false,
+      "score_for": "101",
+      "score_against": "95",
+      "outcome": "W",
+      "pts": "12",
+      "reb": "1",
+      "ast": "8",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "24"
+        },
+        {
+          "label": "PTS",
+          "value": "12"
+        },
+        {
+          "label": "FG",
+          "value": "4-7"
+        },
+        {
+          "label": "3PT",
+          "value": "2-4"
+        },
+        {
+          "label": "FT",
+          "value": "2-2"
+        },
+        {
+          "label": "REB",
+          "value": "1"
+        },
+        {
+          "label": "AST",
+          "value": "8"
+        },
+        {
+          "label": "TO",
+          "value": "2"
+        },
+        {
+          "label": "STL",
+          "value": "1"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "0"
+        },
+        {
+          "label": "DREB",
+          "value": "1"
+        },
+        {
+          "label": "PF",
+          "value": "5"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401917967"
+    },
     {
       "id": "d1:401924268:noah-amenhauser",
       "event_id": "401924268",
