@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T02:09:08.227969+00:00",
+  "updated_at": "2026-11-25T03:24:15.578172+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,78 @@
     }
   ],
   "games": [
+    {
+      "id": "d1:401911458:styles-phipps",
+      "event_id": "401911458",
+      "date": "2026-11-25T00:00Z",
+      "name": "Styles Phipps",
+      "league": "d1",
+      "team": "Nevada",
+      "gcu_years": "",
+      "opponent": "Santa Clara",
+      "home": true,
+      "score_for": "85",
+      "score_against": "66",
+      "outcome": "W",
+      "pts": "15",
+      "reb": "2",
+      "ast": "10",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "30"
+        },
+        {
+          "label": "PTS",
+          "value": "15"
+        },
+        {
+          "label": "FG",
+          "value": "3-5"
+        },
+        {
+          "label": "3PT",
+          "value": "1-2"
+        },
+        {
+          "label": "FT",
+          "value": "8-10"
+        },
+        {
+          "label": "REB",
+          "value": "2"
+        },
+        {
+          "label": "AST",
+          "value": "10"
+        },
+        {
+          "label": "TO",
+          "value": "6"
+        },
+        {
+          "label": "STL",
+          "value": "4"
+        },
+        {
+          "label": "BLK",
+          "value": "1"
+        },
+        {
+          "label": "OREB",
+          "value": "1"
+        },
+        {
+          "label": "DREB",
+          "value": "1"
+        },
+        {
+          "label": "PF",
+          "value": "4"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401911458"
+    },
     {
       "id": "d1:401924267:noah-amenhauser",
       "event_id": "401924267",
