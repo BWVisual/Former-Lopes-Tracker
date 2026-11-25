@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T00:40:39.199828+00:00",
+  "updated_at": "2026-11-25T02:09:08.227969+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,78 @@
     }
   ],
   "games": [
+    {
+      "id": "d1:401924267:noah-amenhauser",
+      "event_id": "401924267",
+      "date": "2026-11-24T20:45Z",
+      "name": "Noah Amenhauser",
+      "league": "d1",
+      "team": "Long Beach State",
+      "gcu_years": "",
+      "opponent": "Arkansas State",
+      "home": true,
+      "score_for": "81",
+      "score_against": "106",
+      "outcome": "L",
+      "pts": "13",
+      "reb": "8",
+      "ast": "3",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "25"
+        },
+        {
+          "label": "PTS",
+          "value": "13"
+        },
+        {
+          "label": "FG",
+          "value": "4-7"
+        },
+        {
+          "label": "3PT",
+          "value": "0-1"
+        },
+        {
+          "label": "FT",
+          "value": "5-5"
+        },
+        {
+          "label": "REB",
+          "value": "8"
+        },
+        {
+          "label": "AST",
+          "value": "3"
+        },
+        {
+          "label": "TO",
+          "value": "2"
+        },
+        {
+          "label": "STL",
+          "value": "0"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "1"
+        },
+        {
+          "label": "DREB",
+          "value": "7"
+        },
+        {
+          "label": "PF",
+          "value": "1"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401924267"
+    },
     {
       "id": "d1:401917676:dennis-evans",
       "event_id": "401917676",
