@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T23:17:07.179715+00:00",
+  "updated_at": "2026-11-28T00:12:32.121104+00:00",
   "tracked": [
     {
       "name": "Braylon Johnson",
@@ -87,6 +87,82 @@
     }
   ],
   "games": [
+    {
+      "id": "gleague:401914604:gabe-mcglothan",
+      "event_id": "401914604",
+      "date": "2026-11-27T22:00Z",
+      "name": "Gabe McGlothan",
+      "league": "gleague",
+      "team": "Maine Celtics",
+      "gcu_years": "",
+      "opponent": "Long Island",
+      "home": false,
+      "score_for": "126",
+      "score_against": "105",
+      "outcome": "W",
+      "pts": "22",
+      "reb": "6",
+      "ast": "3",
+      "stats": [
+        {
+          "label": "MIN",
+          "value": "27"
+        },
+        {
+          "label": "PTS",
+          "value": "22"
+        },
+        {
+          "label": "FG",
+          "value": "7-15"
+        },
+        {
+          "label": "3PT",
+          "value": "0-3"
+        },
+        {
+          "label": "FT",
+          "value": "7-7"
+        },
+        {
+          "label": "REB",
+          "value": "6"
+        },
+        {
+          "label": "AST",
+          "value": "3"
+        },
+        {
+          "label": "TO",
+          "value": "1"
+        },
+        {
+          "label": "STL",
+          "value": "3"
+        },
+        {
+          "label": "BLK",
+          "value": "0"
+        },
+        {
+          "label": "OREB",
+          "value": "3"
+        },
+        {
+          "label": "DREB",
+          "value": "3"
+        },
+        {
+          "label": "PF",
+          "value": "3"
+        },
+        {
+          "label": "+/-",
+          "value": "+17"
+        }
+      ],
+      "boxscore_url": "https://www.espn.com/nba-development/boxscore/_/gameId/401914604"
+    },
     {
       "id": "d1:401921818:braylon-johnson",
       "event_id": "401921818",
